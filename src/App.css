@@ -67,3 +67,9 @@ input {
 img {
   border-radius: 50%;
 }
+@media all and (max-width: 414px){
+  .app {
+    width: 300px;
+    margin: 5px auto;
+  }
+}
